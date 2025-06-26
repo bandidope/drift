@@ -1,5 +1,3 @@
-/* Codigo hecho por @Fabri115 y mejorado por ianalejandro */
-
 import { readdirSync, unlinkSync, existsSync, promises as fs, rmSync } from 'fs'
 import path from 'path'
 
@@ -11,7 +9,7 @@ return conn.reply(m.chat, '🚩 *Utiliza este comando directamente en el número
 await conn.reply(m.chat, '🚩 *Iniciando proceso de eliminación de todos los archivos de sesión, excepto el archivo creds.json...*', m, rcanal, )
 m.react('❄️')
 
-let sessionPath = './BarbozaJadiBot/'
+let sessionPath = './Sesiones/Principal/'
 
 try {
 
@@ -44,6 +42,6 @@ handler.help = ['dsowner']
 handler.tags = ['fix', 'owner']
 handler.command = /^(delzero|dsowner|clearallsession)$/i
 
-handler.rowner = true
+handler.rowner = false
 
 export default handler
