@@ -10,7 +10,7 @@ const clockString = ms => {
 const imagen = "https://files.catbox.moe/ltq7ph.jpg";
 
 const menuHeader = `
-╭─❒ 「 *📍 BARBOZA MD* 」
+╭─❒ 「 *📍 STYLE DRIFT MD* 」
 │ 👤 *Nombre:* %name
 │ 🎖 *Nivel:* %level | *XP:* %exp/%max
 │ 🔓 *Límite:* %limit | *Modo:* %mode
@@ -27,8 +27,7 @@ const sectionDivider = '╰─────────────────�
 const menuFooter = `
 ╭─❒ 「 *📌 INFO FINAL* 」
 │ ⚠️ *Usa los comandos con el prefijo correspondiente.*
-
-> Creado por Barboza-Team
+> Creado por Yallico Drift
 ╰❒
 `.trim();
 
@@ -78,10 +77,10 @@ let handler = async (m, { conn, usedPrefix: _p }) => { // Corrected parameter he
       descargas: "📥",
       herramientas: "🛠️",
       nsfw: "🔞",
-      "base de datos": "📀",
+      BDD: "📀",
       audios: "🔊",
       avanzado: "🗝️",
-      "free fire": "🔥",
+      freefire: "🔥",
       otros: "🪪"
     };
 
