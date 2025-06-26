@@ -9,13 +9,8 @@ import axios from 'axios'
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
   global.owner = [
-  [ '172056423456949@lid', 'Barboza OFC', true ],
-  [ '50577688033', 'Goku', true ],
-  [ '584146277368', 'Willzek', true ],
-  [ '5212431268546', "I'm Fz ~", true ],
-  [ '24580450156657', true ],
-  [ '51928626068', "MediaHub",true ],
-  [ '172056423456949', true ]
+  [ '519369994155', '𝗦𝘁𝘆𝗹𝗲 𝗗𝗿𝗶𝗳𝘁', true ],
+  [ '51977856263', '𝗦𝘁𝘆𝗹𝗲', true ]
   ]
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
@@ -24,19 +19,19 @@ global.prems = []
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = `[ 🌪️Sticker Maker`
-global.author = 'ᑲ᥆𝗍 ᑲᥲrᑲ᥆zᥲ 🌪️]'
-global.stickpack = '©ᑲ᥆𝗍 ᑲᥲrᑲ᥆zᥲ-ᥲі'
-global.stickauth = 'ᑲᥡ ᑲᥲrᑲ᥆zᥲ'
-global.wm = 'ᑲᥲrᑲ᥆zᥲ 🌪️'
-global.dev = '© 𝖯᥆𝗐ᥱ𝗋ᥱძ ᑲᥡ 𝖲ᥙᥒ𝖿ᥣᥲ𝗋ᥱ  ☂︎  𝖳ᥱᥲ𝗆'
-global.wait = '🌪️ *Aɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ, sᴏʏ ʟᴇɴᴛ𝙾... ฅ^•ﻌ•^ฅ\n\n> ᑲ᥆𝗍 ᑲᥲrᑲ᥆zᥲ 🌪️*'
-global.botname = '[ 🌪️𝐁𝐚𝐫𝐛𝐨𝐳𝐚 𝐀𝐢 𝐖𝐡𝐚𝐬𝐀𝐩𝐩 𝐁𝐨𝐭 ]'
-global.textbot = `Powered By Bot Barboza🌪️`
-global.dev = '• ⍴᥆ᥕᥱrᥱძ ᑲᥡ ᥴ᥆mᥙᥒі𝗍ᥡ ᑲ᥆𝗍 ᑲᥲrᑲ᥆zᥲ'
-global.listo = '*Aqui tiene ฅ^•ﻌ•^ฅ*'
-global.namechannel = 'ᑲ᥆𝗍 ᑲᥲrᑲ᥆zᥲ-ᥲі🌪️'
-global.channel = 'https://whatsapp.com/channel/0029Vaua0ZD3gvWjQaIpSy18'
+global.packname = `[⚡ 𝗦𝘁𝘆𝗹𝗲 𝗦𝘁𝗶𝗰𝗸𝗲𝗿 ⚡]`
+global.author = '[⚡ 𝗦𝘁𝘆𝗹𝗲 𝗗𝗿𝗶𝗳𝘁 ⚡]'
+global.stickpack = '[⚡ 𝗦𝘁𝘆𝗹𝗲 𝗗𝗿𝗶𝗳𝘁 ⚡]'
+global.stickauth = '[⚡ 𝗦𝘁𝘆𝗹𝗲 𝗗𝗿𝗶𝗳𝘁 ⚡]'
+global.wm = '𝗦𝘁𝘆𝗹𝗲 𝗗𝗿𝗶𝗳𝘁 ⚡'
+global.dev = '𝗦𝘁𝘆𝗹𝗲 𝗗𝗿𝗶𝗳𝘁 ⚡'
+global.wait = '⚡ *Aɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ, sᴏʏ ʟᴇɴᴛ𝙾... ฅ^•ﻌ•^ฅ*'
+global.botname = '[⚡ 𝗦𝘁𝘆𝗹𝗲 𝗗𝗿𝗶𝗳𝘁 𝐖𝐡𝐚𝐬𝐀𝐩𝐩 𝐁𝐨𝐭 ⚡]'
+global.textbot = `[⚡ Powered By Bot Style ⚡]'
+global.dev = '[⚡ 𝗦𝘁𝘆𝗹𝗲 𝗗𝗿𝗶𝗳𝘁 𝐖𝐡𝐚𝐬𝐀𝐩𝐩 𝐁𝐨𝐭 ⚡]'
+global.listo = '[⚡ *Aqui tiene ฅ^•ﻌ•^ฅ* ⚡]'
+global.namechannel = '[⚡ 𝗦𝘁𝘆𝗹𝗲 𝗗𝗿𝗶𝗳𝘁 𝐖𝐡𝐚𝐬𝐀𝐩𝐩 𝐁𝐨𝐭 ⚡]'
+global.channel = 'https://whatsapp.com/channel/0029Vb5oUp43LdQUVViHwc0m'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
@@ -45,9 +40,9 @@ global.miniurl = fs.readFileSync('./storage/img/miniurl.jpg')
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.group = 'https://chat.whatsapp.com/CBuLXuVZcg9FEfCSHiY6b0'
-global.canal = 'https://whatsapp.com/channel/0029Vaua0ZD3gvWjQaIpSy18'
-global.insta = 'https://www.insta.com/https://www.insta.com/sebastian_barboza13'
+global.group = 'https://chat.whatsapp.com/Bu2aeSP93le6cn3cosTdCl'
+global.canal = 'https://whatsapp.com/channel/0029Vb5oUp43LdQUVViHwc0m'
+global.insta = 'https://www.insta.com/'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
@@ -55,8 +50,8 @@ global.catalogo = fs.readFileSync('./storage/img/catalogo.png');
 global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: packname, orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
 
 global.ch = {
-ch1: '120363414007802886@newsletter',
-ch2: '120363419364337473@newsletter'
+ch1: '120363419947391620@newsletter',
+ch2: '120363419947391620@newsletter'
 }
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
